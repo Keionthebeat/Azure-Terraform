@@ -1,3 +1,5 @@
+![Azure VM Project](AzureVM.png)
+
 # Azure Terraform VM Project
 
 ## Overview
